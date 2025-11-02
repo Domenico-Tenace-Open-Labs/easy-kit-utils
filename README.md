@@ -1,6 +1,5 @@
 # Easy Kit Utils 🦾
  
-<a href="https://app.commanddash.io/agent?github=https://github.com/DomeT99/easy-kit-utils"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
 [![NPM Package](https://badgen.net/npm/v/easy-kit-utils)](https://npmjs.com/package/easy-kit-utils)
 
 Simple JavaScript kit for common utils!
